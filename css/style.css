@@ -33,7 +33,40 @@ header{
 /* fine header */
 
 /* main */
+.container{
+    background-color: white;
+    margin: 60px auto;
+    width: 80%;
+    border-radius: 10px;
+}
+    /* row buttons */
+    .row-buttons{
+        border-bottom: solid 5px rgb(246,248,249);
+        padding: 20px 60px
+    }
 
+    button{
+        border-radius: 5px;
+        padding: 10px;
+        font-size: 12px;
+        font-weight: 600;
+    }
+
+    #button-task{
+        background-color: rgb(71,173,241);
+        color: white;
+        border: none;
+        padding: 12px
+    }
+
+    #button-section{
+        color: rgb(208,212,217);
+        border: 2px solid rgb(208,212,217);
+        background-color: white;
+    }
+    /* fine row button */
+
+    /* lista task */
 
 
 /* fine main */
