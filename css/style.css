@@ -9,6 +9,8 @@
 body{
     font-family: sans-serif;
     background-color: rgb(246,248,249);
+    font-weight: 500;
+    font-size: 15px;
 }
 /* fine generali */
 
@@ -72,12 +74,16 @@ header{
     }
 
     .lista{
-        line-height: 30px;
+        line-height: 40px;
         margin: 30px 50px
     }
 
     .lista-interna{
         padding:0 0 20px 0;
+    }
+
+    .list-title{
+        font-weight: 800;
     }
 
     .state{
