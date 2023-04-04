@@ -1,0 +1,39 @@
+/* generali */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: rgb(246,248,249);
+}
+/* fine generali */
+
+/* header */
+header{
+    background-color: white;
+}
+
+.logo{
+    padding: 10px 20px;
+}
+
+.logo-image{
+    vertical-align: top;
+}
+
+.logo-title{
+    display: inline-block;
+    font-weight: 700;
+    font-size: 40px;
+}
+/* fine header */
+
+/* main */
+
+
+
+/* fine main */
